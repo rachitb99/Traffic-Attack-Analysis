@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 A0214350W_code/test.py $1 $2
